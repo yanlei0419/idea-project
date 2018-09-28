@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.seeker</groupId>
+    <artifactId>idea-project</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>bamboo-plugin-archetype</module>
+        <module>confluence-plugin-archetype</module>
+        <module>jira-plugin-archetype</module>
+        <module>jpa-maven-archetype</module>
+        <module>appfuse-modular-spring</module>
+        <module>cocoon-22-archetype-webapp</module>
+        <module>camel-archetype-war</module>
+        <module>camel-archetype-spring</module>
+        <module>camel-archetype-java</module>
+        <module>maven-archetype-webapp</module>
+    </modules>
+
+
+</project>
